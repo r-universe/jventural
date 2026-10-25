@@ -5,6 +5,9 @@
 [submodule "InterconectaR"]
 	path = InterconectaR
 	url = https://github.com/jventural/interconectar
+[submodule "OptimalFactor"]
+	path = OptimalFactor
+	url = https://github.com/jventural/optimalfactor
 [submodule "PsyMetricTools"]
 	path = PsyMetricTools
 	url = https://github.com/jventural/psymetrictools
