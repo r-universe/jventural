@@ -11,6 +11,9 @@
 [submodule "OptimalFactor"]
 	path = OptimalFactor
 	url = https://github.com/jventural/optimalfactor
+[submodule "PsyML"]
+	path = PsyML
+	url = https://github.com/jventural/psyml
 [submodule "PsyMetricTools"]
 	path = PsyMetricTools
 	url = https://github.com/jventural/psymetrictools
